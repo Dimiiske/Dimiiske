@@ -7,7 +7,9 @@ My projects:
 
 - 🐳 Java Services Container Orchestration Project [Container orchestration](https://github.com/Dimiiske/container-orchestration-basics)
 
-- 🐍 Python calculator [SmartCalc](https://github.com/Dimiiske/SmartCalc-v3.0)
+- 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
+
+- 🛠 C++ calculator [SmartCalcC++](https://github.com/Dimiiske/SmartCalc)
 
 - 🛠 My own STL library [STL library](https://github.com/Dimiiske/stl_containers)
 
