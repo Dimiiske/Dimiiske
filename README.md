@@ -7,6 +7,8 @@ My projects:
 
 - 🐳 Java Services Container Orchestration Project [Container orchestration](https://github.com/Dimiiske/container-orchestration-basics)
 
+- ⚙️ Linux basic bash scripting and system research [Bash scripting](https://github.com/Dimiiske/monitoring_v1)
+
 - 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
 
 - 🛠 C++ calculator [SmartCalcC++](https://github.com/Dimiiske/SmartCalc)
