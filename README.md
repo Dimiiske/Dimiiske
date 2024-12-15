@@ -7,6 +7,8 @@ My projects:
 
 - 🐳 Java Services Container Orchestration Project [Container orchestration](https://github.com/Dimiiske/container-orchestration-basics)
 
+- 🐳 Ansible configuration and Consul service discovery project [Ansible and Consul project](https://github.com/Dimiiske/Configuration-via-Ansible)
+
 - ⚙️ Linux basic bash scripting and system research [Bash scripting](https://github.com/Dimiiske/monitoring_v1)
 
 - 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
@@ -15,7 +17,7 @@ My projects:
 
 - 🛠 My own STL library [STL library](https://github.com/Dimiiske/stl_containers)
 
-- 💬 Ask me about **anything**. I like to talk about everything ☕
+- 💬 Ask me about **everything**. I like to talk about everything ☕
 
 <h3 align="left">Connect with me:</h3>
 
