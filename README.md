@@ -7,7 +7,9 @@ My projects:
 
 - 🐳 Java Services Container Orchestration Project [Container orchestration](https://github.com/Dimiiske/container-orchestration-basics)
 
-- 🐳 Ansible configuration and Consul service discovery project [Ansible and Consul project](https://github.com/Dimiiske/Configuration-via-Ansible)
+- ⚙️ Monitoring tools to track metrics and critical situations [Swarm monitoring](https://github.com/Dimiiske/Swarm-Monitoring)
+
+- ⚙️ Ansible configuration and Consul service discovery project [Ansible and Consul project](https://github.com/Dimiiske/Configuration-via-Ansible)
 
 - ⚙️ Linux basic bash scripting and system research [Bash scripting](https://github.com/Dimiiske/monitoring_v1)
 
