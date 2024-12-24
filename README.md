@@ -19,7 +19,7 @@ My projects:
 
 - 🛠 My own STL library [STL library](https://github.com/Dimiiske/stl_containers)
 
-- 🛠 Implementation of the s21_matrix_oop.h library [Matrix](https://github.com/Dimiiske/matrix)
+- 🛠 Implementation of the matrix_oop.h library [Matrix](https://github.com/Dimiiske/matrix)
 
 - 💬 Ask me about **everything**. I like to talk about everything ☕
 
