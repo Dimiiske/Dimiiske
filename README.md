@@ -13,6 +13,8 @@ My projects:
 
 - ⚙️ Linux basic bash scripting and system research [Bash scripting](https://github.com/Dimiiske/monitoring_v1)
 
+- ⚙️ Real-time monitoring and research of the system status [Monitoring Linux](https://github.com/Dimiiske/Monitoring)
+
 - 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
 
 - 🛠 C++ calculator [SmartCalcC++](https://github.com/Dimiiske/SmartCalc)
