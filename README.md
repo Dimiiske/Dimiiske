@@ -15,6 +15,8 @@ My projects:
 
 - ⚙️ Real-time monitoring and research of the system status [Monitoring Linux](https://github.com/Dimiiske/Monitoring)
 
+- ⚙️ Basic concepts of Kubernetes [Kubernetes Basic](https://github.com/Dimiiske/kubernetes-basic)
+
 - 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
 
 - 🛠 C++ calculator [SmartCalcC++](https://github.com/Dimiiske/SmartCalc)
