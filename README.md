@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmitry! Welcome to my GitHub page</h1>
 <h3 align="center">I'm a junior DevOps engineer🐧. I also write a little in Python and C/C++</h3>
 
-- 🌱 I’m currently learning **Cybersecurity, DevOps tools**
+- 🌱 I’m currently learning **Cybersecurity, DevOps tools, Python**
 
 My projects:
 
@@ -17,6 +17,8 @@ My projects:
 
 - ⚙️ Basic concepts of Kubernetes [Kubernetes Basic](https://github.com/Dimiiske/kubernetes-basic)
 
+- 🐍 Python RESTful API [RESTful Store API](https://github.com/Dimiiske/PythonApi)
+
 - 🐍 Python calculator [SmartCalcPython](https://github.com/Dimiiske/SmartCalc-v3.0)
 
 - 🛠 C++ calculator [SmartCalcC++](https://github.com/Dimiiske/SmartCalc)
@@ -24,12 +26,6 @@ My projects:
 - 🛠 My own STL library [STL library](https://github.com/Dimiiske/stl_containers)
 
 - 🛠 Implementation of the matrix_oop.h library [Matrix](https://github.com/Dimiiske/matrix)
-
-- 💬 Ask me about **everything**. I like to talk about everything ☕
-
-<h3 align="left">Connect with me:</h3>
-
-- 📫 My mail **s21dmitry97@gmail.com**
 
 <p align="left">
 </p>
