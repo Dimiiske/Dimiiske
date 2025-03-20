@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry! Welcome to my GitHub page</h1>
-<h3 align="center">I'm a junior DevOps engineer🐧. I also write a little in Python and C/C++</h3>
+<h3 align="center">I'm a DevOps engineer🐧. I also write a little in Python and C/C++</h3>
 
 - 🌱 I’m currently learning **Cybersecurity, DevOps tools, Python**
 
